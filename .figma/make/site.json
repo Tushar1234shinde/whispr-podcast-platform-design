@@ -1,0 +1,10 @@
+{
+  "description": "Stream and discover premium podcasts while connecting with creators through an immersive community platform designed for engaging audio experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
