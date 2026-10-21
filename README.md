@@ -4,18 +4,18 @@ A React and Vite prototype for discovering podcasts and connecting with creators
 
 ## Getting started
 
-Requirements: Node.js and npm.
+Requirements: Node.js and pnpm.
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 ## Build
 
 ```bash
-npm run build
-npm run preview
+pnpm build
+pnpm preview
 ```
 
 ## Pages
@@ -32,6 +32,6 @@ The app uses hash-based routes:
 ## Stack
 
 - React 19
-- TypeScript
+- JavaScript
 - Vite
 - Tailwind CSS 4
