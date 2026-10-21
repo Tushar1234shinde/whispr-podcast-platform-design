@@ -5,15 +5,15 @@ A responsive podcast discovery and creator platform prototype built with React. 
 ## Requirements
 
 - Node.js 22
-- pnpm 10
+- npm 10
 
 ## Getting started
 
 Install the dependencies and start the Vite development server:
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm dev
 ```
 
 Vite prints the local preview URL when the server is ready.
